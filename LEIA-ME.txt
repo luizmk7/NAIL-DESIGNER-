@@ -1,0 +1,17 @@
+KAUANE ROCHA — NAIL DESIGNER & KR NAIL SHOP
+
+COMO ABRIR
+Extraia o ZIP e abra index.html. Não precisa instalar nada. Para hospedar, envie os arquivos e a pasta assets para uma hospedagem estática.
+
+PERSONALIZAR
+Edite config.js: serviços, preços, duração, dias e horários e lista de produtos. Identidade baseada na referência enviada: Kauane Rocha, especialista em Molde F1, Vitória da Conquista–BA, @kr_naildesigner_, @kr_nailshop, WhatsApp 55 77 98156-5216.
+Os serviços e produtos sugeridos, preços e horários são demonstrativos. Confirme todos com o negócio. Depois de validar, altere demo para false e atualize os avisos de demonstração no HTML e shop.js.
+A loja usa preços sob consulta. Substitua os produtos pelo estoque real em shopProducts. A foto de manicure veio do ZIP fornecido e é ilustrativa; use fotos próprias para a versão comercial.
+
+FUNCIONAMENTO
+Serviços: busca, categorias, favoritos locais, detalhes, seleção múltipla, soma dos valores e duração, data/horário de preferência, prévia e cópia da mensagem e solicitação pelo WhatsApp.
+Lojinha: quatro produtos de exemplo, sacola com quantidades, remoção ao zerar, consulta do pedido pelo WhatsApp. Sacola temporária, não persiste ao fechar ou atualizar.
+O site não consulta agenda real, não bloqueia horários, não confirma reservas, não controla estoque e não processa pagamentos. O cliente revisa e envia a mensagem no WhatsApp; confirmação e condições são combinadas com a profissional.
+Favoritos ficam neste navegador. Nome e observações não são armazenados pelo site.
+
+Arquivos: index.html, styles.css, config.js, app.js, shop.js, motion.js e assets/nails.jpg.

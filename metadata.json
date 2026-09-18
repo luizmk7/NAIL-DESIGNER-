@@ -1,0 +1,6 @@
+{
+  "name": "Kauane Rocha | Nail Designer & Shop",
+  "description": "Kauane Rocha, nail designer em Vitória da Conquista. Agendamento pelo WhatsApp e mini loja KR Nail Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
